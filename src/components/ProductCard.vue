@@ -224,6 +224,7 @@ const formatPrice = (price: number) => {
   justify-content: space-between;
   align-items: center;
   margin-top: auto;
+  gap: 1rem;
 }
 
 .product-price {

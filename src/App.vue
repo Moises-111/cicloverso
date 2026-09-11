@@ -2,7 +2,6 @@
 import { RouterView } from 'vue-router'
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
-import ExitPopup from './components/ExitPopup.vue'
 </script>
 
 <template>
@@ -11,8 +10,6 @@ import ExitPopup from './components/ExitPopup.vue'
   <RouterView />
   
   <Footer />
-  
-  <ExitPopup />
 </template>
 
 <style>
